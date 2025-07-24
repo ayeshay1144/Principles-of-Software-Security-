@@ -44,3 +44,21 @@ Taking IFN657 gave me a deep, practical, and technical understanding of how soft
 
 ### 🙌 Final Thoughts
 This unit was a turning point in my academic journey. I now see software not just as functional code, but as a **potential security surface** that must be tested, hardened, and maintained with vigilance. I feel more prepared to contribute to building secure systems in the real world.
+
+## 📝 Exam Reflection 
+
+The final exam in IFN657 tested not just theoretical knowledge, but my **ability to think like a security analyst** under pressure. It reinforced key concepts from across the semester, such as:
+
+- Identifying real vulnerabilities in C code (e.g. buffer overflows, format string bugs)
+- Understanding how and when to stop fuzzing during vulnerability discovery
+- Recognizing the differences between similar attacks like **reflected vs persistent XSS**
+- Justifying secure coding practices and proposing realistic mitigations
+
+### 🧠 What I Learned:
+- **Writing secure code** is not enough — you need to explain *why* something is vulnerable and *how* to fix it.
+- **Thinking like an attacker** helps you understand how even small code decisions can be exploited.
+- Studying for the exam helped me **solidify my practical knowledge** through applied questions — not just memorization.
+
+This exam experience brought everything together — from raw memory manipulation to web-based threats — and made me more confident in assessing and defending software systems.
+
+---
